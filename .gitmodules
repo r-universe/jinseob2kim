@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jsmodule"]
+	path = jsmodule
+	url = https://github.com/jinseob2kim/jsmodule
+	shallow = true
+	registered = true
+[submodule "jstable"]
+	path = jstable
+	url = https://github.com/jinseob2kim/jstable
+	shallow = true
+	registered = true
