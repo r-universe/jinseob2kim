@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jskm"]
+	path = jskm
+	url = https://github.com/cran/jskm
+	shallow = true
+	registered = true
 [submodule "jsmodule"]
 	path = jsmodule
 	url = https://github.com/jinseob2kim/jsmodule
