@@ -11,3 +11,6 @@
 [submodule "jstable"]
 	path = jstable
 	url = https://github.com/jinseob2kim/jstable
+[submodule "splineplot"]
+	path = splineplot
+	url = https://github.com/jinseob2kim/splineplot
